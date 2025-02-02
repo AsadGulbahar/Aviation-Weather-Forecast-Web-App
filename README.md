@@ -1,3 +1,33 @@
+Aviation Weather Forecast Web App 🌤️✈️
+
+A weather forecasting web application designed for the aviation industry, optimized for iPad. The app fetches real-time weather data using the OpenWeatherMap API and provides 15-hour & 5-day forecasts based on current location, city names, or ICAO airport codes.
+
+
+✨ Features:
+
+Live Weather Updates: Displays temperature, wind speed, humidity, pressure, and cloud coverage.
+
+15-Hour & 5-Day Forecasts: Helps aviation professionals plan operations.
+
+Flight Safety Alerts: Identifies hazardous weather conditions & predicts the next safe flight time.
+
+Geolocation & ICAO Support: Retrieve weather data via GPS or airport codes.
+
+iPad-Optimized UI: Lightweight and efficient performance with Preact (React.js).
+
+
+
+🚀 Technologies Used:
+
+Frontend: Preact (React.js), JavaScript, CSS
+
+APIs: OpenWeatherMap API, Fetch API, Geolocation API
+
+State Management: React Component Lifecycle
+
+Error Handling: Validates incorrect city names & ICAO codes
+
+
 # Set-Up Guide
 - [Installation](#installation)
 - [Development Workflow](#development-workflow)
